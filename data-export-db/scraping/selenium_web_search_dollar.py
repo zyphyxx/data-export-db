@@ -17,3 +17,4 @@ valueDollar = myBrowser.find_elements(By.XPATH, '//*[@id="knowledge-currency__up
 print('dolar:'+ valueDollar)
 
 pyautogui.sleep(5)
+
